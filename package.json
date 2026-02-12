@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"jest"
+    "test": "jest"
   },
   "keywords": [],
   "author": "Paula",
   "license": "MIT",
-  "description": "Programa para Cálculo de Sólidos Geométricos"
+  "description": "Programa para Cálculo de Sólidos Geométricos",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
 }
